@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p174055-e1856053.adobeaemcloud.com/bin/franklin.delivery/TrungNTSE03141/universal-editor-getting-starter-webform/main"
+    type: "markup"
+    suffix: ".html"
